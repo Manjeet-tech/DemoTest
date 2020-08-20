@@ -1,1 +1,18 @@
-Steps to commit in git from the local machine
+Steps to commit in git from the local machine:
+
+1.D:\Git_WorkSpace>git init
+
+2.D:\Git_WorkSpace>git remote add origin https://github.com/Manjeet-tech/DemoTest.git
+
+3.D:\Git_WorkSpace>git remote -v
+
+4.D:\Git_WorkSpace>git add .
+
+5.D:\Git_WorkSpace>git commit -m "First commit"
+
+6.D:\Git_WorkSpace>git push origin master
+
+
+
+
+
